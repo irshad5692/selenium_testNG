@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-17T05:59:27Z" name="Default suite" finished-at="2024-11-17T05:59:35Z" duration-ms="7799">
+    <groups>
+    </groups>
+    <test started-at="2024-11-17T05:59:27Z" name="Default test" finished-at="2024-11-17T05:59:35Z" duration-ms="7799">
+      <class name="appName.frontend.tests.login.ValidLoginTests">
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:appName.frontend.tests.login.ValidLoginTests@341814d3]" started-at="2024-11-17T05:59:27Z" name="setUpDriver" finished-at="2024-11-17T05:59:34Z" duration-ms="7186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appName.frontend.tests.login.ValidLoginTests@341814d3]" started-at="2024-11-17T05:59:34Z" name="setUp" finished-at="2024-11-17T05:59:35Z" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest1()[pri:0, instance:appName.frontend.tests.login.ValidLoginTests@341814d3]" started-at="2024-11-17T05:59:35Z" name="loginTest1" finished-at="2024-11-17T05:59:35Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+      </class> <!-- appName.frontend.tests.login.ValidLoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

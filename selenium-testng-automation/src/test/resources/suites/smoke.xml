@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite Name" verbose="1" parallel="false" thread-count="2">
+    <listeners>
+        <listener class-name="appName.frontend.listeners.TestListener"/>
+    </listeners>
+    <test name="Test 1">
+        <classes>
+            <class name="appName.frontend.tests.login.ValidLoginTests"/>
+        </classes>
+    </test>
+</suite>
